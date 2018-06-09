@@ -1,2 +1,0 @@
-# ndoan.xyz
-Personal Website
